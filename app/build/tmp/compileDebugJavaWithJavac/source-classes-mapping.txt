@@ -1,0 +1,55 @@
+ru/mirea/zlotov/mireaproject/ui/calculator/CalculatorModel.java
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorModel
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorModel$1
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorModel$State
+ru/mirea/zlotov/mireaproject/ui/histories/AppDatabase.java
+ ru.mirea.zlotov.mireaproject.ui.histories.AppDatabase
+ru/mirea/zlotov/mireaproject/ui/player/PlayerFragment.java
+ ru.mirea.zlotov.mireaproject.ui.player.PlayerFragment
+ ru.mirea.zlotov.mireaproject.ui.player.PlayerFragment$1
+ ru.mirea.zlotov.mireaproject.ui.player.PlayerFragment$2
+ru/mirea/zlotov/mireaproject/ui/home/HomeViewModel.java
+ ru.mirea.zlotov.mireaproject.ui.home.HomeViewModel
+ru/mirea/zlotov/mireaproject/ui/histories/AdapterCell.java
+ ru.mirea.zlotov.mireaproject.ui.histories.AdapterCell
+ ru.mirea.zlotov.mireaproject.ui.histories.AdapterCell$StoryHolder
+ru/mirea/zlotov/mireaproject/ui/tools/ToolsFragment.java
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment$1
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment$2
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment$3
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment$4
+ ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment$5
+ru/mirea/zlotov/mireaproject/ui/webviewfragment/WebViewFragment.java
+ ru.mirea.zlotov.mireaproject.ui.webviewfragment.WebViewFragment
+ ru.mirea.zlotov.mireaproject.ui.webviewfragment.WebViewFragment$1
+ ru.mirea.zlotov.mireaproject.ui.webviewfragment.WebViewFragment$2
+ru/mirea/zlotov/mireaproject/ui/tools/RecordPlayService.java
+ ru.mirea.zlotov.mireaproject.ui.tools.RecordPlayService
+ru/mirea/zlotov/mireaproject/ui/home/HomeFragment.java
+ ru.mirea.zlotov.mireaproject.ui.home.HomeFragment
+ ru.mirea.zlotov.mireaproject.ui.home.HomeFragment$1
+ru/mirea/zlotov/mireaproject/ui/player/AudioPlayerService.java
+ ru.mirea.zlotov.mireaproject.ui.player.AudioPlayerService
+ru/mirea/zlotov/mireaproject/BuildConfig.java
+ ru.mirea.zlotov.mireaproject.BuildConfig
+ru/mirea/zlotov/mireaproject/ui/calculator/CalculatorFragment.java
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorFragment
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorFragment$1
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorFragment$2
+ ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorFragment$3
+ru/mirea/zlotov/mireaproject/ui/histories/App.java
+ ru.mirea.zlotov.mireaproject.ui.histories.App
+ru/mirea/zlotov/mireaproject/ui/histories/MyDialogFragment.java
+ ru.mirea.zlotov.mireaproject.ui.histories.MyDialogFragment
+ru/mirea/zlotov/mireaproject/ui/histories/HistoryDao.java
+ ru.mirea.zlotov.mireaproject.ui.hihistories.HistoryDao
+ru/mirea/zlotov/mireaproject/ui/histories/History.java
+ ru.mirea.zlotov.mireaproject.ui.histories.History
+ru/mirea/zlotov/mireaproject/ui/parameters/Parameters.java
+ ru.mirea.zlotov.mireaproject.ui.parameters.Parameters
+ ru.mirea.zlotov.mireaproject.ui.parameters.Parameters$1
+ru/mirea/zlotov/mireaproject/ui/histories/Cell.java
+ ru.mirea.zlotov.mireaproject.ui.histories.Cell
+ru/mirea/zlotov/mireaproject/MainActivity.java
+ ru.mirea.zlotov.mireaproject.MainActivity

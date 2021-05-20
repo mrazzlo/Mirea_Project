@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ru.mirea.zlotov.mireaproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ru.mirea.zlotov.mireaproject.ui.calculator.CalculatorFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ru.mirea.zlotov.mireaproject.ui.webviewfragment.WebViewFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_webviewfragment" />
+    <fragment
+        android:id="@+id/nav_player_fragment"
+        android:name="ru.mirea.zlotov.mireaproject.ui.player.PlayerFragment"
+        android:label="fragment_player"
+        tools:layout="@layout/fragment_player" />
+    <fragment
+        android:id="@+id/nav_tools_fragment"
+        android:name="ru.mirea.zlotov.mireaproject.ui.tools.ToolsFragment"
+        android:label="fragment_tools"
+        tools:layout="@layout/fragment_tools" />
+    <fragment
+        android:id="@+id/nav_parameters"
+        android:name="ru.mirea.zlotov.mireaproject.ui.parameters.Parameters"
+        android:label="fragment_parametrs"
+        tools:layout="@layout/fragment_parameters" />
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="ru.mirea.zlotov.mireaproject.ui.histories.History"
+        android:label="Stories"
+        tools:layout="@layout/fragment_history" />
+</navigation>

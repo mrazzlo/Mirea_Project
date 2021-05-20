@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="929b1c6a-79bc-4085-87f4-17c27775fc3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ru/mirea/zlotov/mireaproject/ui/hihistories/HistoryDao_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AppDatabase_Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/ru/mirea/zlotov/mireaproject/ui/histories/AppDatabase_Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/ru/mirea/kostushov/mireaproject/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/ru/mirea/zlotov/mireaproject/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1uISa3wlhu8e6AluA8U9uECrajQ=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1uISa3wlhu8e6AluA8U9uECrajQ=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2It_+DmKI65fTAoJa4P0TZ3QqtE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2It_+DmKI65fTAoJa4P0TZ3QqtE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/A847YuK2KHLIWEcvAdG4RslZyIU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JK2mDM_0RqJMAP1yIszwQ5AaKhk=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JK2mDM_0RqJMAP1yIszwQ5AaKhk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/abwnIi13+15tLb2Ds+Md33gsOVc=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/abwnIi13+15tLb2Ds+Md33gsOVc=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uPrxHTdlbTBRc5BjCxIgGN6drU8=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uPrxHTdlbTBRc5BjCxIgGN6drU8=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/1uISa3wlhu8e6AluA8U9uECrajQ=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/1uISa3wlhu8e6AluA8U9uECrajQ=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/2It_+DmKI65fTAoJa4P0TZ3QqtE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/2It_+DmKI65fTAoJa4P0TZ3QqtE=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/A847YuK2KHLIWEcvAdG4RslZyIU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JK2mDM_0RqJMAP1yIszwQ5AaKhk=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JK2mDM_0RqJMAP1yIszwQ5AaKhk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/abwnIi13+15tLb2Ds+Md33gsOVc=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/abwnIi13+15tLb2Ds+Md33gsOVc=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/uPrxHTdlbTBRc5BjCxIgGN6drU8=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/uPrxHTdlbTBRc5BjCxIgGN6drU8=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorFragment$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorFragment$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorFragment$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorModel$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorModel$State.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao_Impl$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao_Impl$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao_Impl$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/hihistories/HistoryDao_Impl.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AdapterCell$StoryHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AdapterCell.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/App.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AppDatabase.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AppDatabase_Impl$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/AppDatabase_Impl.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/Cell.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/History.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/histories/MyDialogFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/home/HomeFragment$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/home/HomeFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/home/HomeViewModel.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/parameters/Parameters$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/parameters/Parameters$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/parameters/Parameters.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/player/AudioPlayerService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/player/PlayerFragment$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/player/PlayerFragment$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/player/PlayerFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/RecordPlayService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment$5.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/webviewfragment/WebViewFragment$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/webviewfragment/WebViewFragment$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/ru/mirea/kostushov/mireaproject/ui/webviewfragment/WebViewFragment.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/ru/mirea/kostushov/mireaproject/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/ru/mirea/zlotov/mireaproject/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/calculator/CalculatorFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/calculator/CalculatorModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/calculator/CalculatorModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/AdapterCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/AdapterCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/AppDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/HistoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/HistoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/histories/MyDialogFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/histories/MyDialogFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/home/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/home/HomeViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/home/HomeViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/parameters/Parameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/parameters/Parameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/player/AudioPlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/player/AudioPlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/player/PlayerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/player/PlayerFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/tools/RecordPlayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/tools/RecordPlayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/tools/ToolsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/tools/ToolsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ru/mirea/kostushov/mireaproject/ui/webviewfragment/WebViewFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/webviewfragment/WebViewFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/ru/mirea/kostushov/mireaproject/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/ru/mirea/zlotov/mireaproject/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qzDP6lxW5S0Yquxc14PH2ALHpp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/Morty/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/Morty/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.mirea.kostushov.mireaproject.ui.parameters" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Morty\AndroidStudioProjects\MireaProjectK\app\src\main\res\layout" />
+      <recent name="C:\Users\Morty\AndroidStudioProjects\MireaProjectK\app\src\main\java\ru\mirea\kostushov\mireaproject\ui\histories" />
+      <recent name="C:\Users\Morty\AndroidStudioProjects\MireaProjectK\app\src\main\res\xml" />
+      <recent name="C:\Users\Morty\AndroidStudioProjects\MireaProjectK\app\src\main\res\raw" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MireaProject.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="929b1c6a-79bc-4085-87f4-17c27775fc3d" name="Default Changelist" comment="" />
+      <created>1618073497408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618073497408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="158" key="#PSD" timestamp="1621542494082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="158" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1621542494082" />
+    <state x="314" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618073715236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1618073715236" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618074401905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618074401905" />
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog" timestamp="1620283441703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1620283441703" />
+    <state x="349" y="174" width="838" height="483" key="AndroidCreateResourceFileDialog" timestamp="1618075656335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="174" width="838" height="483" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1618075656335" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621542962766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621542962766" />
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1621544361084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621544361084" />
+    <state width="1491" height="210" key="GridCell.Tab.0.center" timestamp="1621544361084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621544361084" />
+    <state width="1491" height="210" key="GridCell.Tab.0.left" timestamp="1621544361084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621544361084" />
+    <state width="1491" height="210" key="GridCell.Tab.0.right" timestamp="1621544361084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621544361084" />
+    <state width="1491" height="210" key="GridCell.Tab.1.bottom" timestamp="1620283719079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1620283719079" />
+    <state width="1491" height="210" key="GridCell.Tab.1.center" timestamp="1620283719079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1620283719079" />
+    <state width="1491" height="210" key="GridCell.Tab.1.left" timestamp="1620283719079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1620283719079" />
+    <state width="1491" height="210" key="GridCell.Tab.1.right" timestamp="1620283719079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1620283719079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/tools/ToolsFragment.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/ru/mirea/zlotov/mireaproject/ui/tools/ToolsFragment.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
